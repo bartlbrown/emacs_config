@@ -1,0 +1,5 @@
+#+TITLE: Emacs Configuration Files
+#+AUTHOR: Barton L. Brown
+
+* Installation
+Copy the init.el and settings.org file into your ~/.emacs.d folder and then run emacs. The required packages should be automatically installed by "use-package".
